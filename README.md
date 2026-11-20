@@ -5,6 +5,16 @@
 **Course:** 2323 CIS — Introduction to Data Science · King Khalid University
 **Lab:** 14–15 — Lab Project Development, GitHub Publishing and Presentation
 
+**Team Members:** 
+Lama ali
+448815941
+maryam abdu 
+448816153
+faten masoud 
+448815696
+Taif Ali Mohammed 
+448815887
+
 ## 1. Objective
 
 **Data question:** How did car fuel efficiency change between 1970 and 1982, and which car characteristics (weight, cylinders, horsepower, region of origin) are most strongly linked to it?

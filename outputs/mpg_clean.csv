@@ -1,0 +1,399 @@
+brand,model,year,origin,cylinders,engine_litres,horsepower,weight_kg,weight_class,acceleration,mpg,l_per_100km
+amc,rebel sst,1970,USA,8,4.98,150.0,1557.0,Heavy (1400–1800 kg),12.0,16.0,14.7
+amc,ambassador dpl,1970,USA,8,6.39,190.0,1746.0,Heavy (1400–1800 kg),8.5,15.0,15.68
+amc,hornet,1970,USA,6,3.26,97.0,1258.0,Medium (1000–1400 kg),15.5,18.0,13.07
+amc,gremlin,1970,USA,6,3.26,90.0,1201.0,Medium (1000–1400 kg),15.0,21.0,11.2
+audi,100 ls,1970,Europe,4,1.75,90.0,1102.0,Medium (1000–1400 kg),14.5,24.0,9.8
+bmw,2002,1970,Europe,4,1.98,113.0,1013.0,Medium (1000–1400 kg),12.5,26.0,9.05
+buick,skylark 320,1970,USA,8,5.74,165.0,1675.0,Heavy (1400–1800 kg),11.5,15.0,15.68
+buick,estate wagon (sw),1970,USA,8,7.46,225.0,1400.0,Medium (1000–1400 kg),10.0,14.0,16.8
+chevrolet,chevelle malibu,1970,USA,8,5.03,130.0,1589.0,Heavy (1400–1800 kg),12.0,18.0,13.07
+chevrolet,impala,1970,USA,8,7.44,220.0,1975.0,Very heavy (>1800 kg),9.0,14.0,16.8
+chevrolet,monte carlo,1970,USA,8,6.55,150.0,1706.0,Heavy (1400–1800 kg),9.5,15.0,15.68
+chevrolet,c20,1970,USA,8,5.03,200.0,1985.0,Very heavy (>1800 kg),15.0,10.0,23.52
+datsun,pl510,1970,Japan,4,1.59,88.0,966.0,Light (<1000 kg),14.5,27.0,8.71
+dodge,challenger se,1970,USA,8,6.28,170.0,1616.0,Heavy (1400–1800 kg),10.0,15.0,15.68
+dodge,d200,1970,USA,8,5.21,210.0,1988.0,Very heavy (>1800 kg),13.5,11.0,21.38
+ford,torino,1970,USA,8,4.95,140.0,1564.0,Heavy (1400–1800 kg),10.5,17.0,13.84
+ford,galaxie 500,1970,USA,8,7.03,198.0,1969.0,Very heavy (>1800 kg),10.0,15.0,15.68
+ford,maverick,1970,USA,6,3.28,85.0,1173.0,Medium (1000–1400 kg),16.0,21.0,11.2
+ford,f250,1970,USA,8,5.9,215.0,2093.0,Very heavy (>1800 kg),14.0,10.0,23.52
+international,1200d,1970,USA,8,4.98,193.0,2146.0,Very heavy (>1800 kg),18.5,9.0,26.14
+peugeot,504,1970,Europe,4,1.8,87.0,1212.0,Medium (1000–1400 kg),17.5,25.0,9.41
+plymouth,satellite,1970,USA,8,5.21,150.0,1559.0,Heavy (1400–1800 kg),11.0,18.0,13.07
+plymouth,fury iii,1970,USA,8,7.21,215.0,1956.0,Very heavy (>1800 kg),8.5,14.0,16.8
+plymouth,'cuda 340,1970,USA,8,5.57,160.0,1637.0,Heavy (1400–1800 kg),8.0,14.0,16.8
+plymouth,duster,1970,USA,6,3.24,95.0,1285.0,Medium (1000–1400 kg),15.5,22.0,10.69
+pontiac,catalina,1970,USA,8,7.46,225.0,2007.0,Very heavy (>1800 kg),10.0,14.0,16.8
+saab,99e,1970,Europe,4,1.7,95.0,1077.0,Medium (1000–1400 kg),17.5,25.0,9.41
+toyota,corona mark ii,1970,Japan,4,1.85,95.0,1076.0,Medium (1000–1400 kg),15.0,24.0,9.8
+volkswagen,1131 deluxe sedan,1970,Europe,4,1.59,46.0,832.0,Light (<1000 kg),20.5,26.0,9.05
+amc,gremlin,1971,USA,6,3.8,100.0,1195.0,Medium (1000–1400 kg),13.0,19.0,12.38
+amc,matador,1971,USA,6,3.8,100.0,1491.0,Heavy (1400–1800 kg),15.5,18.0,13.07
+amc,hornet sportabout (sw),1971,USA,6,4.23,110.0,1344.0,Medium (1000–1400 kg),13.5,18.0,13.07
+chevrolet,vega 2300,1971,USA,4,2.29,90.0,1027.0,Medium (1000–1400 kg),15.5,28.0,8.4
+chevrolet,chevelle malibu,1971,USA,6,4.1,100.0,1510.0,Heavy (1400–1800 kg),15.5,17.0,13.84
+chevrolet,impala,1971,USA,8,5.74,165.0,1909.0,Very heavy (>1800 kg),12.0,14.0,16.8
+chevrolet,vega (sw),1971,USA,4,2.29,72.0,1092.0,Medium (1000–1400 kg),19.0,22.0,10.69
+datsun,pl510,1971,Japan,4,1.59,88.0,966.0,Light (<1000 kg),14.5,27.0,8.71
+datsun,1200,1971,Japan,4,1.18,69.0,732.0,Light (<1000 kg),18.0,35.0,6.72
+dodge,monaco (sw),1971,USA,8,6.28,180.0,2248.0,Very heavy (>1800 kg),11.5,12.0,19.6
+fiat,124b,1971,Europe,4,1.44,76.0,937.0,Light (<1000 kg),14.5,30.0,7.84
+ford,pinto,1971,USA,4,1.61,78.0,928.0,Light (<1000 kg),19.0,25.0,9.41
+ford,torino 500,1971,USA,6,4.1,88.0,1498.0,Heavy (1400–1800 kg),15.5,19.0,12.38
+ford,galaxie 500,1971,USA,8,5.75,153.0,1884.0,Very heavy (>1800 kg),13.5,14.0,16.8
+ford,country squire (sw),1971,USA,8,6.55,170.0,2153.0,Very heavy (>1800 kg),12.0,13.0,18.09
+ford,mustang,1971,USA,6,4.1,88.0,1424.0,Heavy (1400–1800 kg),14.5,18.0,13.07
+mercury,capri 2000,1971,USA,4,2.0,86.0,1007.0,Medium (1000–1400 kg),14.0,23.0,10.23
+opel,1900,1971,Europe,4,1.9,90.0,963.0,Light (<1000 kg),14.0,28.0,8.4
+peugeot,304,1971,Europe,4,1.29,70.0,941.0,Light (<1000 kg),19.5,30.0,7.84
+plymouth,satellite custom,1971,USA,6,3.69,105.0,1560.0,Heavy (1400–1800 kg),15.5,16.0,14.7
+plymouth,fury iii,1971,USA,8,5.21,150.0,1858.0,Very heavy (>1800 kg),13.0,14.0,16.8
+plymouth,cricket,1971,USA,4,1.49,70.0,887.0,Light (<1000 kg),20.5,26.0,9.05
+pontiac,catalina brougham,1971,USA,8,6.55,175.0,2025.0,Very heavy (>1800 kg),11.5,14.0,16.8
+pontiac,safari (sw),1971,USA,8,6.55,175.0,2331.0,Very heavy (>1800 kg),12.0,13.0,18.09
+pontiac,firebird,1971,USA,6,4.1,100.0,1489.0,Heavy (1400–1800 kg),15.0,19.0,12.38
+toyota,corona,1971,Japan,4,1.85,95.0,1011.0,Medium (1000–1400 kg),14.0,25.0,9.41
+toyota,corolla 1200,1971,Japan,4,1.16,65.0,804.0,Light (<1000 kg),19.0,31.0,7.59
+volkswagen,model 111,1971,Europe,4,1.59,60.0,832.0,Light (<1000 kg),19.0,27.0,8.71
+amc,ambassador sst,1972,USA,8,4.98,150.0,1666.0,Heavy (1400–1800 kg),11.5,17.0,13.84
+amc,matador (sw),1972,USA,8,4.98,150.0,1765.0,Heavy (1400–1800 kg),12.5,15.0,15.68
+buick,lesabre custom,1972,USA,8,5.74,155.0,2042.0,Very heavy (>1800 kg),13.5,13.0,18.09
+chevrolet,vega,1972,USA,4,2.29,90.0,1092.0,Medium (1000–1400 kg),19.5,20.0,11.76
+chevrolet,impala,1972,USA,8,5.74,165.0,1939.0,Very heavy (>1800 kg),12.0,13.0,18.09
+chevrolet,chevelle concours (sw),1972,USA,8,5.03,130.0,1859.0,Very heavy (>1800 kg),14.0,13.0,18.09
+chrysler,newport royal,1972,USA,8,6.55,190.0,2006.0,Very heavy (>1800 kg),12.5,13.0,18.09
+datsun,510 (sw),1972,Japan,4,1.59,92.0,1038.0,Medium (1000–1400 kg),17.0,28.0,8.4
+dodge,colt hardtop,1972,USA,4,1.6,80.0,964.0,Light (<1000 kg),17.0,25.0,9.41
+dodge,colt (sw),1972,USA,4,1.61,80.0,982.0,Light (<1000 kg),15.0,28.0,8.4
+ford,pinto runabout,1972,USA,4,2.0,86.0,1010.0,Medium (1000–1400 kg),16.5,21.0,11.2
+ford,galaxie 500,1972,USA,8,5.75,153.0,1873.0,Very heavy (>1800 kg),13.0,14.0,16.8
+ford,gran torino (sw),1972,USA,8,4.95,140.0,1948.0,Very heavy (>1800 kg),16.0,13.0,18.09
+ford,pinto (sw),1972,USA,4,2.0,86.0,1086.0,Medium (1000–1400 kg),16.0,22.0,10.69
+mazda,rx2 coupe,1972,Japan,3,1.15,97.0,1057.0,Medium (1000–1400 kg),13.5,19.0,12.38
+mercury,marquis,1972,USA,8,7.03,208.0,2101.0,Very heavy (>1800 kg),11.0,11.0,21.38
+oldsmobile,delta 88 royale,1972,USA,8,5.74,160.0,2021.0,Very heavy (>1800 kg),13.5,12.0,19.6
+peugeot,504 (sw),1972,Europe,4,1.97,87.0,1351.0,Medium (1000–1400 kg),19.5,21.0,11.2
+plymouth,fury iii,1972,USA,8,5.21,150.0,1876.0,Very heavy (>1800 kg),13.5,15.0,15.68
+plymouth,satellite custom (sw),1972,USA,8,5.21,150.0,1849.0,Very heavy (>1800 kg),14.0,14.0,16.8
+pontiac,catalina,1972,USA,8,6.55,175.0,1989.0,Very heavy (>1800 kg),12.0,14.0,16.8
+renault,12 (sw),1972,Europe,4,1.57,69.0,993.0,Light (<1000 kg),18.0,26.0,9.05
+toyota,corona hardtop,1972,Japan,4,1.85,95.0,1033.0,Medium (1000–1400 kg),15.5,24.0,9.8
+toyota,corona mark ii (sw),1972,Japan,4,1.97,97.0,1137.0,Medium (1000–1400 kg),14.5,23.0,10.23
+toyota,corolla 1600 (sw),1972,Japan,4,1.59,88.0,953.0,Light (<1000 kg),16.5,27.0,8.71
+volkswagen,type 3,1972,Europe,4,1.59,54.0,1022.0,Medium (1000–1400 kg),23.5,23.0,10.23
+volkswagen,411 (sw),1972,Europe,4,1.98,76.0,1139.0,Medium (1000–1400 kg),18.0,22.0,10.69
+volvo,145e (sw),1972,Europe,4,1.98,112.0,1330.0,Medium (1000–1400 kg),14.5,18.0,13.07
+amc,matador,1973,USA,8,4.98,150.0,1666.0,Heavy (1400–1800 kg),11.5,14.0,16.8
+amc,ambassador brougham,1973,USA,8,5.9,175.0,1733.0,Heavy (1400–1800 kg),11.0,13.0,18.09
+amc,hornet,1973,USA,6,3.8,100.0,1336.0,Medium (1000–1400 kg),16.0,18.0,13.07
+amc,gremlin,1973,USA,6,3.8,100.0,1265.0,Medium (1000–1400 kg),15.0,18.0,13.07
+audi,100ls,1973,Europe,4,1.87,91.0,1171.0,Medium (1000–1400 kg),14.0,20.0,11.76
+buick,century 350,1973,USA,8,5.74,175.0,1860.0,Very heavy (>1800 kg),13.0,13.0,18.09
+buick,electra 225 custom,1973,USA,8,7.46,225.0,2246.0,Very heavy (>1800 kg),11.0,12.0,19.6
+chevrolet,malibu,1973,USA,8,5.74,145.0,1809.0,Very heavy (>1800 kg),13.0,13.0,18.09
+chevrolet,caprice classic,1973,USA,8,6.55,150.0,2025.0,Very heavy (>1800 kg),12.0,13.0,18.09
+chevrolet,nova custom,1973,USA,6,4.1,100.0,1487.0,Heavy (1400–1800 kg),18.0,16.0,14.7
+chevrolet,impala,1973,USA,8,6.55,150.0,2267.0,Very heavy (>1800 kg),14.0,11.0,21.38
+chevrolet,vega,1973,USA,4,2.29,72.0,1089.0,Medium (1000–1400 kg),19.5,21.0,11.2
+chevrolet,monte carlo s,1973,USA,8,5.74,145.0,1852.0,Very heavy (>1800 kg),13.0,15.0,15.68
+chrysler,new yorker brougham,1973,USA,8,7.21,215.0,2148.0,Very heavy (>1800 kg),11.0,13.0,18.09
+datsun,610,1973,Japan,4,1.77,94.0,1079.0,Medium (1000–1400 kg),16.5,22.0,10.69
+dodge,coronet custom,1973,USA,8,5.21,150.0,1713.0,Heavy (1400–1800 kg),12.5,15.0,15.68
+dodge,dart custom,1973,USA,8,5.21,150.0,1542.0,Heavy (1400–1800 kg),11.0,15.0,15.68
+fiat,124 sport coupe,1973,Europe,4,1.61,90.0,1027.0,Medium (1000–1400 kg),15.5,26.0,9.05
+fiat,128,1973,Europe,4,1.11,49.0,847.0,Light (<1000 kg),19.5,29.0,8.11
+ford,gran torino,1973,USA,8,4.95,137.0,1833.0,Very heavy (>1800 kg),14.5,14.0,16.8
+ford,ltd,1973,USA,8,5.75,158.0,1979.0,Very heavy (>1800 kg),13.0,13.0,18.09
+ford,maverick,1973,USA,6,4.1,88.0,1370.0,Medium (1000–1400 kg),16.5,18.0,13.07
+ford,country,1973,USA,8,6.55,167.0,2225.0,Very heavy (>1800 kg),12.5,12.0,19.6
+ford,pinto,1973,USA,4,2.0,85.0,1048.0,Medium (1000–1400 kg),18.5,19.0,12.38
+mazda,rx3,1973,Japan,3,1.15,90.0,963.0,Light (<1000 kg),13.5,18.0,13.07
+mercury,marquis brougham,1973,USA,8,7.03,198.0,2246.0,Very heavy (>1800 kg),11.5,12.0,19.6
+mercury,capri v6,1973,USA,6,2.54,107.0,1121.0,Medium (1000–1400 kg),14.0,21.0,11.2
+oldsmobile,vista cruiser,1973,USA,8,5.74,180.0,2041.0,Very heavy (>1800 kg),12.5,12.0,19.6
+oldsmobile,omega,1973,USA,8,5.74,180.0,1662.0,Heavy (1400–1800 kg),11.0,11.0,21.38
+opel,manta,1973,Europe,4,1.9,75.0,979.0,Light (<1000 kg),15.5,24.0,9.8
+plymouth,fury gran sedan,1973,USA,8,5.21,150.0,1922.0,Very heavy (>1800 kg),14.5,14.0,16.8
+plymouth,valiant,1973,USA,6,3.69,105.0,1416.0,Heavy (1400–1800 kg),16.5,18.0,13.07
+plymouth,duster,1973,USA,6,3.24,95.0,1317.0,Medium (1000–1400 kg),16.0,23.0,10.23
+plymouth,custom suburb,1973,USA,8,5.9,170.0,2111.0,Very heavy (>1800 kg),13.0,13.0,18.09
+pontiac,grand prix,1973,USA,8,6.55,230.0,1940.0,Very heavy (>1800 kg),9.5,16.0,14.7
+saab,99le,1973,Europe,4,1.98,110.0,1207.0,Medium (1000–1400 kg),14.0,24.0,9.8
+toyota,carina,1973,Japan,4,1.59,88.0,1034.0,Medium (1000–1400 kg),19.0,20.0,11.76
+toyota,mark ii,1973,Japan,6,2.56,122.0,1273.0,Medium (1000–1400 kg),13.5,20.0,11.76
+volkswagen,super beetle,1973,Europe,4,1.59,46.0,885.0,Light (<1000 kg),21.0,26.0,9.05
+volvo,144ea,1973,Europe,4,1.98,112.0,1301.0,Medium (1000–1400 kg),15.5,19.0,12.38
+amc,hornet,1974,USA,6,3.8,100.0,1316.0,Medium (1000–1400 kg),16.0,19.0,12.38
+amc,matador,1974,USA,6,4.23,110.0,1647.0,Heavy (1400–1800 kg),18.0,16.0,14.7
+amc,matador (sw),1974,USA,8,4.98,150.0,1931.0,Very heavy (>1800 kg),15.5,14.0,16.8
+audi,fox,1974,Europe,4,1.61,83.0,1007.0,Medium (1000–1400 kg),16.5,29.0,8.11
+buick,century luxus (sw),1974,USA,8,5.74,150.0,2131.0,Very heavy (>1800 kg),14.5,13.0,18.09
+chevrolet,nova,1974,USA,6,4.1,100.0,1513.0,Heavy (1400–1800 kg),17.0,15.0,15.68
+chevrolet,vega,1974,USA,4,2.29,75.0,1153.0,Medium (1000–1400 kg),17.0,25.0,9.41
+chevrolet,chevelle malibu classic,1974,USA,6,4.1,100.0,1715.0,Heavy (1400–1800 kg),17.0,16.0,14.7
+datsun,b210,1974,Japan,4,1.29,67.0,885.0,Light (<1000 kg),19.0,31.0,7.59
+datsun,710,1974,Japan,4,1.36,61.0,909.0,Light (<1000 kg),19.0,32.0,7.35
+dodge,coronet custom (sw),1974,USA,8,5.21,150.0,2022.0,Very heavy (>1800 kg),13.5,14.0,16.8
+dodge,colt,1974,USA,4,1.47,75.0,964.0,Light (<1000 kg),14.5,28.0,8.4
+fiat,128,1974,Europe,4,1.47,75.0,956.0,Light (<1000 kg),15.5,24.0,9.8
+fiat,124 tc,1974,Europe,4,1.9,75.0,1019.0,Medium (1000–1400 kg),14.0,26.0,9.05
+fiat,x1.9,1974,Europe,4,1.29,67.0,907.0,Light (<1000 kg),16.0,31.0,7.59
+ford,maverick,1974,USA,6,3.28,100.0,1304.0,Medium (1000–1400 kg),17.0,21.0,11.2
+ford,pinto,1974,USA,4,2.0,80.0,1112.0,Medium (1000–1400 kg),16.5,26.0,9.05
+ford,gran torino,1974,USA,8,4.95,140.0,1878.0,Very heavy (>1800 kg),14.0,16.0,14.7
+ford,gran torino (sw),1974,USA,8,4.95,140.0,2104.0,Very heavy (>1800 kg),16.0,14.0,16.8
+honda,civic,1974,Japan,4,1.97,97.0,1129.0,Medium (1000–1400 kg),15.0,24.0,9.8
+opel,manta,1974,Europe,4,1.59,78.0,1043.0,Medium (1000–1400 kg),14.5,26.0,9.05
+plymouth,duster,1974,USA,6,3.24,95.0,1407.0,Heavy (1400–1800 kg),16.5,20.0,11.76
+plymouth,satellite sebring,1974,USA,6,3.69,105.0,1639.0,Heavy (1400–1800 kg),16.5,18.0,13.07
+subaru,,1974,Japan,4,1.77,93.0,1085.0,Medium (1000–1400 kg),15.5,26.0,9.05
+toyota,corolla 1200,1974,Japan,4,1.16,65.0,833.0,Light (<1000 kg),21.0,32.0,7.35
+toyota,corona,1974,Japan,4,1.25,52.0,748.0,Light (<1000 kg),16.5,31.0,7.59
+volkswagen,dasher,1974,Europe,4,1.29,67.0,890.0,Light (<1000 kg),15.5,26.0,9.05
+amc,matador,1975,USA,6,4.23,110.0,1692.0,Heavy (1400–1800 kg),19.0,15.0,15.68
+amc,gremlin,1975,USA,6,3.8,100.0,1322.0,Medium (1000–1400 kg),16.0,20.0,11.76
+amc,pacer,1975,USA,6,3.8,90.0,1456.0,Heavy (1400–1800 kg),17.0,19.0,12.38
+audi,100ls,1975,Europe,4,1.88,95.0,1222.0,Medium (1000–1400 kg),15.0,23.0,10.23
+buick,century,1975,USA,6,3.79,110.0,1772.0,Heavy (1400–1800 kg),21.0,17.0,13.84
+buick,skyhawk,1975,USA,6,3.79,110.0,1378.0,Medium (1000–1400 kg),15.0,21.0,11.2
+chevrolet,nova,1975,USA,6,4.1,105.0,1569.0,Heavy (1400–1800 kg),16.0,18.0,13.07
+chevrolet,bel air,1975,USA,8,5.74,145.0,2014.0,Very heavy (>1800 kg),14.0,15.0,15.68
+chevrolet,chevelle malibu,1975,USA,6,4.1,105.0,1768.0,Heavy (1400–1800 kg),18.5,16.0,14.7
+chevrolet,monza 2+2,1975,USA,8,4.29,110.0,1461.0,Heavy (1400–1800 kg),13.5,20.0,11.76
+datsun,710,1975,Japan,4,1.95,97.0,1154.0,Medium (1000–1400 kg),17.0,24.0,9.8
+ford,maverick,1975,USA,6,4.1,72.0,1432.0,Heavy (1400–1800 kg),19.5,15.0,15.68
+ford,ltd,1975,USA,8,5.75,148.0,2112.0,Very heavy (>1800 kg),13.5,14.0,16.8
+ford,mustang ii,1975,USA,8,4.95,129.0,1437.0,Heavy (1400–1800 kg),12.0,13.0,18.09
+ford,pinto,1975,USA,4,2.29,83.0,1197.0,Medium (1000–1400 kg),17.0,23.0,10.23
+ford,pinto,1975,USA,6,2.8,97.0,1354.0,Medium (1000–1400 kg),14.5,18.0,13.07
+honda,civic cvcc,1975,Japan,4,1.49,53.0,814.0,Light (<1000 kg),17.5,33.0,7.13
+mercury,monarch,1975,USA,6,4.1,72.0,1557.0,Heavy (1400–1800 kg),21.0,15.0,15.68
+peugeot,504,1975,Europe,4,1.97,88.0,1341.0,Medium (1000–1400 kg),17.0,23.0,10.23
+plymouth,valiant custom,1975,USA,6,3.69,95.0,1481.0,Heavy (1400–1800 kg),16.0,19.0,12.38
+plymouth,grand fury,1975,USA,8,5.21,150.0,2040.0,Very heavy (>1800 kg),14.5,16.0,14.7
+plymouth,fury,1975,USA,6,3.69,95.0,1717.0,Heavy (1400–1800 kg),19.0,18.0,13.07
+pontiac,catalina,1975,USA,8,6.55,170.0,2117.0,Very heavy (>1800 kg),11.5,16.0,14.7
+pontiac,astro,1975,USA,4,2.29,78.0,1176.0,Medium (1000–1400 kg),18.5,23.0,10.23
+saab,99le,1975,Europe,4,1.98,115.0,1212.0,Medium (1000–1400 kg),13.5,25.0,9.41
+toyota,corolla,1975,Japan,4,1.59,75.0,985.0,Light (<1000 kg),16.0,29.0,8.11
+toyota,corona,1975,Japan,4,2.2,96.0,1226.0,Medium (1000–1400 kg),13.5,24.0,9.8
+volkswagen,dasher,1975,Europe,4,1.47,71.0,1008.0,Medium (1000–1400 kg),16.5,25.0,9.41
+volkswagen,rabbit,1975,Europe,4,1.47,70.0,879.0,Light (<1000 kg),14.0,29.0,8.11
+volvo,244dl,1975,Europe,4,1.98,98.0,1336.0,Medium (1000–1400 kg),14.5,22.0,10.69
+amc,matador,1976,USA,8,4.98,120.0,1797.0,Heavy (1400–1800 kg),13.9,15.5,15.18
+amc,hornet,1976,USA,6,3.8,90.0,1399.0,Medium (1000–1400 kg),17.6,22.5,10.45
+amc,pacer d/l,1976,USA,6,4.23,95.0,1448.0,Heavy (1400–1800 kg),17.8,17.5,13.44
+cadillac,seville,1976,USA,8,5.74,180.0,1987.0,Very heavy (>1800 kg),12.1,16.5,14.26
+chevrolet,chevelle malibu classic,1976,USA,8,5.0,140.0,1912.0,Very heavy (>1800 kg),13.0,17.5,13.44
+chevrolet,nova,1976,USA,6,4.1,105.0,1521.0,Heavy (1400–1800 kg),14.5,22.0,10.69
+chevrolet,chevette,1976,USA,4,1.39,52.0,923.0,Light (<1000 kg),22.2,29.0,8.11
+chevrolet,woody,1976,USA,4,1.61,60.0,982.0,Light (<1000 kg),22.1,24.5,9.6
+chevrolet,c10,1976,USA,8,5.74,145.0,1839.0,Very heavy (>1800 kg),12.0,13.0,18.09
+datsun,b-210,1976,Japan,4,1.39,70.0,903.0,Light (<1000 kg),17.0,32.0,7.35
+dodge,colt,1976,USA,4,1.61,79.0,1023.0,Medium (1000–1400 kg),17.7,26.0,9.05
+dodge,coronet brougham,1976,USA,8,5.21,150.0,1901.0,Very heavy (>1800 kg),13.0,16.0,14.7
+dodge,aspen se,1976,USA,6,3.69,100.0,1656.0,Heavy (1400–1800 kg),17.7,20.0,11.76
+dodge,d100,1976,USA,8,5.21,150.0,1703.0,Heavy (1400–1800 kg),14.0,13.0,18.09
+fiat,131,1976,Europe,4,1.75,86.0,1118.0,Medium (1000–1400 kg),15.5,28.0,8.4
+ford,gran torino,1976,USA,8,5.75,152.0,1912.0,Very heavy (>1800 kg),12.8,14.5,16.22
+ford,maverick,1976,USA,6,3.28,81.0,1366.0,Medium (1000–1400 kg),17.6,24.0,9.8
+ford,granada ghia,1976,USA,6,4.1,78.0,1621.0,Heavy (1400–1800 kg),21.0,18.0,13.07
+ford,pinto,1976,USA,4,2.29,72.0,1163.0,Medium (1000–1400 kg),13.6,26.5,8.88
+ford,f108,1976,USA,8,4.95,130.0,1755.0,Heavy (1400–1800 kg),15.0,13.0,18.09
+honda,civic,1976,Japan,4,1.49,53.0,814.0,Light (<1000 kg),17.4,33.0,7.13
+mercedes,280s,1976,Europe,6,2.75,120.0,1733.0,Heavy (1400–1800 kg),16.7,16.5,14.26
+mercury,ii,1976,USA,4,2.29,92.0,1167.0,Medium (1000–1400 kg),14.9,25.0,9.41
+opel,1900,1976,Europe,4,1.9,81.0,1007.0,Medium (1000–1400 kg),16.9,25.0,9.41
+peugeot,504,1976,Europe,4,1.97,88.0,1483.0,Heavy (1400–1800 kg),21.9,19.0,12.38
+plymouth,valiant,1976,USA,6,3.69,100.0,1466.0,Heavy (1400–1800 kg),15.4,22.0,10.69
+plymouth,volare premier v8,1976,USA,8,5.21,150.0,1787.0,Heavy (1400–1800 kg),13.2,13.0,18.09
+pontiac,ventura sj,1976,USA,6,4.1,110.0,1653.0,Heavy (1400–1800 kg),16.2,18.5,12.71
+renault,12tl,1976,Europe,4,1.66,83.0,999.0,Light (<1000 kg),15.3,27.0,8.71
+toyota,corolla,1976,Japan,4,1.59,75.0,977.0,Light (<1000 kg),16.4,28.0,8.4
+toyota,mark ii,1976,Japan,6,2.56,108.0,1329.0,Medium (1000–1400 kg),15.5,19.0,12.38
+volkswagen,rabbit,1976,Europe,4,1.47,70.0,879.0,Light (<1000 kg),14.2,29.0,8.11
+volkswagen,rabbit,1976,Europe,4,1.59,71.0,828.0,Light (<1000 kg),12.2,29.5,7.97
+volvo,245,1976,Europe,4,2.13,102.0,1429.0,Heavy (1400–1800 kg),15.7,20.0,11.76
+bmw,320i,1977,Europe,4,1.98,110.0,1179.0,Medium (1000–1400 kg),12.8,21.5,10.94
+buick,opel isuzu deluxe,1977,USA,4,1.82,80.0,977.0,Light (<1000 kg),14.8,30.0,7.84
+buick,skylark,1977,USA,6,3.79,105.0,1554.0,Heavy (1400–1800 kg),16.9,20.5,11.47
+chevrolet,caprice classic,1977,USA,8,5.0,145.0,1760.0,Heavy (1400–1800 kg),12.5,17.5,13.44
+chevrolet,concours,1977,USA,6,4.1,110.0,1597.0,Heavy (1400–1800 kg),16.4,17.5,13.44
+chevrolet,monte carlo landau,1977,USA,8,5.74,170.0,1889.0,Very heavy (>1800 kg),11.4,15.5,15.18
+chevrolet,chevette,1977,USA,4,1.61,63.0,930.0,Light (<1000 kg),17.0,30.5,7.71
+chrysler,cordoba,1977,USA,8,6.55,190.0,1962.0,Very heavy (>1800 kg),12.2,15.5,15.18
+datsun,f-10 hatchback,1977,Japan,4,1.39,70.0,882.0,Light (<1000 kg),16.8,33.5,7.02
+datsun,810,1977,Japan,6,2.39,97.0,1277.0,Medium (1000–1400 kg),14.5,22.0,10.69
+dodge,monaco brougham,1977,USA,8,5.21,145.0,1878.0,Very heavy (>1800 kg),13.7,15.5,15.18
+dodge,colt m/m,1977,USA,4,1.61,83.0,941.0,Light (<1000 kg),15.9,33.5,7.02
+ford,granada,1977,USA,6,4.1,98.0,1599.0,Heavy (1400–1800 kg),19.0,18.5,12.71
+ford,thunderbird,1977,USA,8,5.75,149.0,1966.0,Very heavy (>1800 kg),14.5,16.0,14.7
+ford,mustang ii 2+2,1977,USA,4,2.29,89.0,1250.0,Medium (1000–1400 kg),15.8,25.5,9.22
+honda,accord cvcc,1977,Japan,4,1.61,68.0,928.0,Light (<1000 kg),18.5,31.5,7.47
+mazda,rx-4,1977,Japan,3,1.31,110.0,1234.0,Medium (1000–1400 kg),13.5,21.5,10.94
+mercury,cougar brougham,1977,USA,8,4.95,130.0,1948.0,Very heavy (>1800 kg),14.9,15.0,15.68
+oldsmobile,cutlass supreme,1977,USA,8,4.26,110.0,1842.0,Very heavy (>1800 kg),19.0,17.0,13.84
+plymouth,arrow gs,1977,USA,4,2.0,96.0,1043.0,Medium (1000–1400 kg),15.5,25.5,9.22
+plymouth,volare custom,1977,USA,6,3.69,100.0,1647.0,Heavy (1400–1800 kg),17.7,19.0,12.38
+pontiac,grand prix lj,1977,USA,8,6.55,180.0,1914.0,Very heavy (>1800 kg),11.1,16.0,14.7
+pontiac,sunbird coupe,1977,USA,4,2.47,88.0,1243.0,Medium (1000–1400 kg),16.0,24.5,9.6
+renault,5 gtl,1977,Europe,4,1.29,58.0,828.0,Light (<1000 kg),18.6,36.0,6.53
+subaru,dl,1977,Japan,4,1.59,67.0,900.0,Light (<1000 kg),16.4,30.0,7.84
+toyota,corolla liftback,1977,Japan,4,1.59,75.0,1027.0,Medium (1000–1400 kg),18.2,26.0,9.05
+volkswagen,rabbit custom,1977,Europe,4,1.59,78.0,880.0,Light (<1000 kg),14.5,29.0,8.11
+volkswagen,dasher,1977,Europe,4,1.59,78.0,993.0,Light (<1000 kg),14.1,30.5,7.71
+amc,concord,1978,USA,6,3.8,90.0,1456.0,Heavy (1400–1800 kg),17.2,19.4,12.12
+amc,concord d/l,1978,USA,6,4.23,120.0,1547.0,Heavy (1400–1800 kg),15.1,18.1,13.0
+audi,5000,1978,Europe,5,2.15,103.0,1284.0,Medium (1000–1400 kg),15.9,20.3,11.59
+buick,century special,1978,USA,6,3.79,105.0,1533.0,Heavy (1400–1800 kg),15.8,20.6,11.42
+buick,regal sport coupe (turbo),1978,USA,6,3.79,165.0,1563.0,Heavy (1400–1800 kg),13.4,17.7,13.29
+chevrolet,malibu,1978,USA,6,3.28,95.0,1431.0,Heavy (1400–1800 kg),18.2,20.5,11.47
+chevrolet,monte carlo landau,1978,USA,8,5.0,145.0,1554.0,Heavy (1400–1800 kg),13.2,19.2,12.25
+chevrolet,chevette,1978,USA,4,1.61,68.0,977.0,Light (<1000 kg),16.5,30.0,7.84
+datsun,b210 gx,1978,Japan,4,1.39,70.0,939.0,Light (<1000 kg),18.6,39.4,5.97
+datsun,510,1978,Japan,4,1.95,97.0,1043.0,Medium (1000–1400 kg),14.7,27.2,8.65
+datsun,200-sx,1978,Japan,4,1.95,97.0,1091.0,Medium (1000–1400 kg),14.9,23.9,9.84
+dodge,diplomat,1978,USA,8,5.21,140.0,1694.0,Heavy (1400–1800 kg),13.2,19.4,12.12
+dodge,aspen,1978,USA,6,3.69,110.0,1642.0,Heavy (1400–1800 kg),18.7,18.6,12.65
+dodge,magnum xe,1978,USA,8,5.21,140.0,1851.0,Very heavy (>1800 kg),13.7,17.5,13.44
+dodge,omni,1978,USA,4,1.72,75.0,1012.0,Medium (1000–1400 kg),14.5,30.9,7.61
+ford,fiesta,1978,USA,4,1.61,66.0,816.0,Light (<1000 kg),14.4,36.1,6.52
+ford,fairmont (auto),1978,USA,6,3.28,85.0,1345.0,Medium (1000–1400 kg),15.8,20.2,11.64
+ford,fairmont (man),1978,USA,4,2.29,88.0,1234.0,Medium (1000–1400 kg),15.4,25.1,9.37
+ford,futura,1978,USA,8,4.95,139.0,1454.0,Heavy (1400–1800 kg),11.2,18.1,13.0
+honda,civic cvcc,1978,Japan,4,1.49,60.0,816.0,Light (<1000 kg),16.4,36.1,6.52
+honda,accord lx,1978,Japan,4,1.61,68.0,968.0,Light (<1000 kg),16.6,29.5,7.97
+mazda,glc deluxe,1978,Japan,4,1.28,52.0,900.0,Light (<1000 kg),19.4,32.8,7.17
+mercury,monarch ghia,1978,USA,8,4.95,139.0,1619.0,Heavy (1400–1800 kg),12.8,20.2,11.64
+mercury,zephyr,1978,USA,6,3.28,85.0,1393.0,Medium (1000–1400 kg),16.7,20.8,11.31
+oldsmobile,cutlass salon brougham,1978,USA,8,4.26,110.0,1526.0,Heavy (1400–1800 kg),15.5,19.9,11.82
+oldsmobile,starfire sx,1978,USA,4,2.47,85.0,1295.0,Medium (1000–1400 kg),17.6,23.8,9.88
+peugeot,604sl,1978,Europe,6,2.67,133.0,1547.0,Heavy (1400–1800 kg),15.8,16.2,14.52
+plymouth,volare,1978,USA,6,3.69,100.0,1556.0,Heavy (1400–1800 kg),17.2,20.5,11.47
+plymouth,sapporo,1978,USA,4,2.56,105.0,1245.0,Medium (1000–1400 kg),16.7,23.2,10.14
+pontiac,phoenix lj,1978,USA,6,3.79,105.0,1603.0,Heavy (1400–1800 kg),19.2,19.2,12.25
+saab,99gle,1978,Europe,4,1.98,115.0,1268.0,Medium (1000–1400 kg),15.7,21.6,10.89
+toyota,corona,1978,Japan,4,2.2,95.0,1161.0,Medium (1000–1400 kg),14.2,27.5,8.55
+toyota,celica gt liftback,1978,Japan,4,2.2,95.0,1141.0,Medium (1000–1400 kg),14.8,21.1,11.15
+volkswagen,rabbit custom diesel,1978,Europe,4,1.47,48.0,900.0,Light (<1000 kg),21.5,43.1,5.46
+volkswagen,scirocco,1978,Europe,4,1.46,71.0,903.0,Light (<1000 kg),14.9,31.5,7.47
+volvo,264gl,1978,Europe,6,2.67,125.0,1424.0,Heavy (1400–1800 kg),13.6,17.0,13.84
+amc,concord dl 6,1979,USA,6,3.8,90.0,1481.0,Heavy (1400–1800 kg),18.2,20.2,11.64
+amc,spirit dl,1979,USA,4,1.98,80.0,1211.0,Medium (1000–1400 kg),15.0,27.4,8.58
+buick,estate wagon (sw),1979,USA,8,5.74,155.0,1978.0,Very heavy (>1800 kg),14.9,16.9,13.92
+buick,skylark limited,1979,USA,4,2.47,90.0,1211.0,Medium (1000–1400 kg),16.0,28.4,8.28
+cadillac,eldorado,1979,USA,8,5.74,125.0,1769.0,Heavy (1400–1800 kg),17.4,23.0,10.23
+chevrolet,caprice classic,1979,USA,8,5.0,130.0,1742.0,Heavy (1400–1800 kg),15.4,17.0,13.84
+chevrolet,malibu classic (sw),1979,USA,8,4.38,125.0,1635.0,Heavy (1400–1800 kg),15.0,19.2,12.25
+chevrolet,citation,1979,USA,6,2.83,115.0,1177.0,Medium (1000–1400 kg),11.3,28.8,8.17
+chrysler,lebaron town @ country (sw),1979,USA,8,5.9,150.0,1787.0,Heavy (1400–1800 kg),13.0,18.5,12.71
+datsun,210,1979,Japan,4,1.39,65.0,916.0,Light (<1000 kg),19.2,31.8,7.4
+dodge,aspen 6,1979,USA,6,3.69,110.0,1524.0,Heavy (1400–1800 kg),16.6,20.6,11.42
+dodge,st. regis,1979,USA,8,5.21,135.0,1737.0,Heavy (1400–1800 kg),15.2,18.2,12.92
+dodge,colt hatchback custom,1979,USA,4,1.61,80.0,869.0,Light (<1000 kg),14.4,35.7,6.59
+fiat,strada custom,1979,Europe,4,1.49,69.0,966.0,Light (<1000 kg),14.7,37.3,6.31
+ford,fairmont 4,1979,USA,4,2.29,88.0,1311.0,Medium (1000–1400 kg),17.3,22.3,10.55
+ford,ltd landau,1979,USA,8,4.95,129.0,1690.0,Heavy (1400–1800 kg),13.4,17.6,13.36
+ford,country squire (sw),1979,USA,8,5.75,142.0,1839.0,Very heavy (>1800 kg),14.3,15.5,15.18
+mazda,glc deluxe,1979,Japan,4,1.41,65.0,896.0,Light (<1000 kg),15.2,34.1,6.9
+mercedes,benz 300d,1979,Europe,5,3.0,77.0,1601.0,Heavy (1400–1800 kg),20.1,25.4,9.26
+mercury,zephyr 6,1979,USA,6,3.28,85.0,1356.0,Medium (1000–1400 kg),18.2,19.8,11.88
+mercury,grand marquis,1979,USA,8,5.75,138.0,1794.0,Heavy (1400–1800 kg),13.2,16.5,14.26
+oldsmobile,cutlass salon brougham,1979,USA,8,4.26,90.0,1551.0,Heavy (1400–1800 kg),22.2,23.9,9.84
+oldsmobile,omega brougham,1979,USA,6,2.83,115.0,1225.0,Medium (1000–1400 kg),12.9,26.8,8.78
+peugeot,504,1979,Europe,4,2.31,71.0,1447.0,Heavy (1400–1800 kg),24.8,27.2,8.65
+plymouth,horizon,1979,USA,4,1.72,70.0,998.0,Light (<1000 kg),13.2,34.2,6.88
+plymouth,horizon tc3,1979,USA,4,1.72,70.0,975.0,Light (<1000 kg),14.9,34.5,6.82
+pontiac,lemans v6,1979,USA,6,3.79,115.0,1472.0,Heavy (1400–1800 kg),15.4,21.5,10.94
+pontiac,phoenix,1979,USA,4,2.47,90.0,1159.0,Medium (1000–1400 kg),13.2,33.5,7.02
+volkswagen,rabbit custom,1979,Europe,4,1.46,71.0,873.0,Light (<1000 kg),14.0,31.9,7.37
+amc,concord,1980,USA,4,2.47,90.0,1362.0,Medium (1000–1400 kg),20.1,24.3,9.68
+audi,4000,1980,Europe,4,1.59,78.0,992.0,Light (<1000 kg),15.8,34.3,6.86
+audi,5000s (diesel),1980,Europe,5,1.98,67.0,1338.0,Medium (1000–1400 kg),19.9,36.4,6.46
+chevrolet,chevette,1980,USA,4,1.61,70.0,962.0,Light (<1000 kg),15.5,32.1,7.33
+chevrolet,citation,1980,USA,4,2.47,90.0,1215.0,Medium (1000–1400 kg),16.5,28.0,8.4
+datsun,310,1980,Japan,4,1.41,65.0,916.0,Light (<1000 kg),16.4,37.2,6.32
+datsun,510 hatchback,1980,Japan,4,1.95,92.0,1104.0,Medium (1000–1400 kg),15.0,37.0,6.36
+datsun,210,1980,Japan,4,1.39,65.0,957.0,Light (<1000 kg),19.2,40.8,5.77
+datsun,280-zx,1980,Japan,6,2.75,132.0,1320.0,Medium (1000–1400 kg),11.4,32.7,7.19
+dodge,aspen,1980,USA,6,3.69,90.0,1534.0,Heavy (1400–1800 kg),18.7,19.1,12.31
+dodge,colt,1980,USA,4,2.56,105.0,1270.0,Medium (1000–1400 kg),14.4,27.9,8.43
+ford,fairmont,1980,USA,4,2.29,88.0,1302.0,Medium (1000–1400 kg),18.1,26.4,8.91
+ford,mustang cobra,1980,USA,4,2.29,78.0,1318.0,Medium (1000–1400 kg),14.3,23.6,9.97
+honda,civic 1500 gl,1980,Japan,4,1.49,67.0,839.0,Light (<1000 kg),13.8,44.6,5.27
+honda,accord,1980,Japan,4,1.75,72.0,1039.0,Medium (1000–1400 kg),17.0,32.4,7.26
+mazda,626,1980,Japan,4,1.97,75.0,1153.0,Medium (1000–1400 kg),17.5,31.3,7.51
+mazda,glc,1980,Japan,4,1.41,65.0,957.0,Light (<1000 kg),17.9,46.6,5.05
+mazda,rx-7 gs,1980,Japan,3,1.15,100.0,1098.0,Medium (1000–1400 kg),12.5,23.7,9.92
+mercedes,240d,1980,Europe,4,2.39,67.0,1474.0,Heavy (1400–1800 kg),21.8,30.0,7.84
+renault,lecar deluxe,1980,Europe,4,1.39,78.0,832.0,Light (<1000 kg),17.3,40.9,5.75
+subaru,dl,1980,Japan,4,1.59,67.0,973.0,Light (<1000 kg),18.0,33.8,6.96
+toyota,corolla tercel,1980,Japan,4,1.46,60.0,893.0,Light (<1000 kg),18.8,38.1,6.17
+toyota,corona liftback,1980,Japan,4,2.2,90.0,1230.0,Medium (1000–1400 kg),15.5,29.8,7.89
+toyota,corolla,1980,Japan,4,1.77,75.0,1027.0,Medium (1000–1400 kg),15.2,32.2,7.3
+triumph,tr7 coupe,1980,Europe,4,2.0,88.0,1134.0,Medium (1000–1400 kg),15.1,35.0,6.72
+volkswagen,rabbit,1980,Europe,4,1.61,76.0,973.0,Light (<1000 kg),14.7,41.5,5.67
+volkswagen,rabbit c (diesel),1980,Europe,4,1.47,48.0,946.0,Light (<1000 kg),21.7,44.3,5.31
+volkswagen,dasher (diesel),1980,Europe,4,1.47,48.0,1059.0,Medium (1000–1400 kg),23.7,43.4,5.42
+volkswagen,rabbit,1980,Europe,4,1.46,62.0,837.0,Light (<1000 kg),15.3,29.8,7.89
+buick,skylark,1981,USA,4,2.47,84.0,1195.0,Medium (1000–1400 kg),16.4,26.6,8.84
+buick,century,1981,USA,6,3.79,110.0,1549.0,Heavy (1400–1800 kg),15.8,22.4,10.5
+chevrolet,citation,1981,USA,6,2.83,110.0,1236.0,Medium (1000–1400 kg),12.6,23.5,10.01
+chrysler,lebaron salon,1981,USA,6,3.69,85.0,1572.0,Heavy (1400–1800 kg),16.6,17.6,13.36
+datsun,210 mpg,1981,Japan,4,1.39,65.0,896.0,Light (<1000 kg),19.4,37.0,6.36
+datsun,200sx,1981,Japan,4,1.95,100.0,1186.0,Medium (1000–1400 kg),14.8,32.9,7.15
+datsun,810 maxima,1981,Japan,6,2.39,120.0,1329.0,Medium (1000–1400 kg),13.8,24.2,9.72
+dodge,aries wagon (sw),1981,USA,4,2.56,92.0,1188.0,Medium (1000–1400 kg),14.4,25.8,9.12
+ford,escort 4w,1981,USA,4,1.61,65.0,928.0,Light (<1000 kg),16.2,34.4,6.84
+ford,escort 2h,1981,USA,4,1.61,65.0,1080.0,Medium (1000–1400 kg),20.7,29.9,7.87
+ford,granada gl,1981,USA,6,3.28,88.0,1388.0,Medium (1000–1400 kg),17.1,20.2,11.64
+honda,civic 1300,1981,Japan,4,1.33,60.0,798.0,Light (<1000 kg),16.1,35.1,6.7
+honda,prelude,1981,Japan,4,1.75,75.0,1002.0,Medium (1000–1400 kg),14.4,33.7,6.98
+mazda,glc 4,1981,Japan,4,1.49,68.0,900.0,Light (<1000 kg),16.0,34.1,6.9
+mazda,626,1981,Japan,4,1.97,74.0,1195.0,Medium (1000–1400 kg),18.3,31.6,7.44
+oldsmobile,cutlass ls,1981,USA,8,5.74,105.0,1690.0,Heavy (1400–1800 kg),19.0,26.6,8.84
+peugeot,505s turbo diesel,1981,Europe,4,2.31,80.0,1465.0,Heavy (1400–1800 kg),20.4,28.1,8.37
+plymouth,reliant,1981,USA,4,2.21,84.0,1129.0,Medium (1000–1400 kg),15.7,27.2,8.65
+plymouth,reliant,1981,USA,4,2.21,84.0,1082.0,Medium (1000–1400 kg),12.9,30.0,7.84
+plymouth,champ,1981,USA,4,1.41,64.0,850.0,Light (<1000 kg),16.4,39.0,6.03
+plymouth,horizon 4,1981,USA,4,1.72,63.0,1005.0,Medium (1000–1400 kg),14.9,34.7,6.78
+renault,18i,1981,Europe,4,1.64,78.0,1052.0,Medium (1000–1400 kg),15.8,34.5,6.82
+subaru,,1981,Japan,4,1.59,67.0,937.0,Light (<1000 kg),17.8,32.3,7.28
+toyota,starlet,1981,Japan,4,1.29,58.0,796.0,Light (<1000 kg),16.9,39.1,6.02
+toyota,tercel,1981,Japan,4,1.46,62.0,930.0,Light (<1000 kg),17.3,37.7,6.24
+toyota,corolla,1981,Japan,4,1.77,75.0,1066.0,Medium (1000–1400 kg),16.8,32.4,7.26
+toyota,cressida,1981,Japan,6,2.75,116.0,1315.0,Medium (1000–1400 kg),12.6,25.4,9.26
+volkswagen,jetta,1981,Europe,4,1.72,74.0,993.0,Light (<1000 kg),14.2,33.0,7.13
+volvo,diesel,1981,Europe,6,2.38,76.0,1433.0,Heavy (1400–1800 kg),19.6,30.7,7.66
+amc,concord dl,1982,USA,4,2.47,78.0,1377.0,Medium (1000–1400 kg),20.5,23.0,10.23
+buick,century limited,1982,USA,6,2.97,110.0,1336.0,Medium (1000–1400 kg),16.4,25.0,9.41
+chevrolet,cavalier,1982,USA,4,1.84,88.0,1182.0,Medium (1000–1400 kg),19.6,28.0,8.4
+chevrolet,cavalier wagon,1982,USA,4,1.84,88.0,1197.0,Medium (1000–1400 kg),18.6,27.0,8.71
+chevrolet,cavalier 2-door,1982,USA,4,1.84,88.0,1086.0,Medium (1000–1400 kg),18.0,34.0,6.92
+chevrolet,camaro,1982,USA,4,2.47,90.0,1338.0,Medium (1000–1400 kg),17.3,27.0,8.71
+chevrolet,s-10,1982,USA,4,1.95,82.0,1234.0,Medium (1000–1400 kg),19.4,31.0,7.59
+chrysler,lebaron medallion,1982,USA,4,2.56,92.0,1173.0,Medium (1000–1400 kg),14.5,26.0,9.05
+datsun,310 gx,1982,Japan,4,1.49,67.0,905.0,Light (<1000 kg),16.2,38.0,6.19
+dodge,aries se,1982,USA,4,2.21,84.0,1145.0,Medium (1000–1400 kg),16.0,29.0,8.11
+dodge,charger 2.2,1982,USA,4,2.21,84.0,1075.0,Medium (1000–1400 kg),13.0,36.0,6.53
+dodge,rampage,1982,USA,4,2.21,84.0,1041.0,Medium (1000–1400 kg),11.6,32.0,7.35
+ford,fairmont futura,1982,USA,4,2.29,92.0,1300.0,Medium (1000–1400 kg),16.4,24.0,9.8
+ford,granada l,1982,USA,6,3.8,112.0,1286.0,Medium (1000–1400 kg),14.7,22.0,10.69
+ford,mustang gl,1982,USA,4,2.29,86.0,1266.0,Medium (1000–1400 kg),15.6,27.0,8.71
+ford,ranger,1982,USA,4,1.97,79.0,1191.0,Medium (1000–1400 kg),18.6,28.0,8.4
+honda,accord,1982,Japan,4,1.75,75.0,1000.0,Light (<1000 kg),14.5,36.0,6.53
+honda,civic,1982,Japan,4,1.49,67.0,891.0,Light (<1000 kg),15.0,38.0,6.19
+honda,civic (auto),1982,Japan,4,1.49,67.0,891.0,Light (<1000 kg),15.7,32.0,7.35
+mazda,glc custom l,1982,Japan,4,1.49,68.0,919.0,Light (<1000 kg),18.2,37.0,6.36
+mazda,glc custom,1982,Japan,4,1.49,68.0,894.0,Light (<1000 kg),17.6,31.0,7.59
+mercury,lynx l,1982,USA,4,1.61,70.0,964.0,Light (<1000 kg),17.3,36.0,6.53
+nissan,stanza xe,1982,Japan,4,1.97,88.0,980.0,Light (<1000 kg),14.5,36.0,6.53
+oldsmobile,cutlass ciera (diesel),1982,USA,6,4.29,85.0,1368.0,Medium (1000–1400 kg),17.0,38.0,6.19
+plymouth,horizon miser,1982,USA,4,1.72,63.0,964.0,Light (<1000 kg),14.7,38.0,6.19
+pontiac,j2000 se hatchback,1982,USA,4,1.84,85.0,1168.0,Medium (1000–1400 kg),16.2,31.0,7.59
+pontiac,phoenix,1982,USA,4,2.47,90.0,1241.0,Medium (1000–1400 kg),18.0,27.0,8.71
+toyota,corolla,1982,Japan,4,1.77,70.0,1018.0,Medium (1000–1400 kg),16.9,34.0,6.92
+toyota,celica gt,1982,Japan,4,2.36,96.0,1209.0,Medium (1000–1400 kg),13.9,32.0,7.35
+volkswagen,rabbit l,1982,Europe,4,1.72,74.0,898.0,Light (<1000 kg),15.3,36.0,6.53
+volkswagen,pickup,1982,Europe,4,1.59,52.0,966.0,Light (<1000 kg),24.6,44.0,5.35

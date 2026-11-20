@@ -58,11 +58,25 @@ Requirements: Python 3, pandas, numpy, seaborn, matplotlib (all pre-installed in
 
 ## 6. Results
 
-_To be completed after the analysis._
+1. **Efficiency rose sharply from 1970 to 1982.** American cars show the clearest trend: after the 1973 oil crisis their average climbed almost every year, roughly doubling from about 15 to about 29.5 mpg.
+2. **Japanese and European cars were more efficient than American cars in every year.**
+3. **Weight is the characteristic most strongly linked to efficiency.** Heavier cars, with bigger engines and more cylinders, use more fuel.
+4. **The regional gap is largely a weight gap.** Almost all Japanese and European cars were under about 1,400 kg, while many American cars weighed 1,500–2,300 kg.
+5. **Cylinders:** median efficiency is about 28 mpg for 4 cylinders, 19 for 6 and 14 for 8.
+
+Exact figures are printed in the notebook under each chart.
+
+![Average mpg by year and region](outputs/figures/1_mpg_trend_by_region.png)
+![Weight vs mpg](outputs/figures/2_weight_vs_mpg.png)
+![mpg by cylinders](outputs/figures/3_mpg_by_cylinders.png)
 
 ## 7. Limitations
 
-_To be completed after the analysis._
+- **Old, narrow data:** 398 car models sold in the USA, 1970–1982. Results may not apply to modern cars or the Saudi market.
+- **Models, not sales:** each model counts once regardless of how many were sold.
+- **Small groups:** some years have only a few European or Japanese cars, and only 4 three-cylinder and 3 five-cylinder cars exist, so those averages are unstable.
+- **Imputed values:** a few missing horsepower values were filled with group medians.
+- **Correlation, not causation:** weight, engine size and cylinders rise together, so their separate effects cannot be isolated here.
 
 ## 8. Team contribution
 

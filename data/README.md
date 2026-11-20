@@ -15,6 +15,8 @@ df = sns.load_dataset("mpg")
 
 ## Columns
 
+The raw dataset has 398 rows and 9 columns (checked in notebook section 3.1).
+
 | Column | Meaning | Unit |
 | --- | --- | --- |
 | mpg | Fuel efficiency | miles per US gallon |

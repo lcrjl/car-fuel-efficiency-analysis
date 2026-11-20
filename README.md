@@ -82,7 +82,7 @@ Exact figures are printed in the notebook under each chart.
 
 | Member | Contribution |
 | --- | --- |
-| Fuad Abdullahi Hashi | _to be completed_ |
-| Member 2 | _to be completed_ |
-| Member 3 | _to be completed_ |
-| Member 4 | _to be completed_ |
+| Name 1 | _to be completed_ |
+| Name 2 | _to be completed_ |
+| Name 3 | _to be completed_ |
+| Name 4 | _to be completed_ |

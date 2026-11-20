@@ -1,5 +1,7 @@
 # Car Fuel Efficiency Analysis (1970–1982)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lcrjl/car-fuel-efficiency-analysis/blob/main/notebooks/analysis.ipynb)
+
 **Course:** 2323 CIS — Introduction to Data Science · King Khalid University
 **Lab:** 14–15 — Lab Project Development, GitHub Publishing and Presentation
 

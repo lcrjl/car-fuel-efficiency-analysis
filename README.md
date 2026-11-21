@@ -92,9 +92,11 @@ Exact figures are printed in the notebook under each chart.
 
 ## 8. Team contribution
 
-| Member | Contribution |
+## 8. Team contribution
+
+| Member (GitHub) | Contribution |
 | --- | --- |
-| Name 1 | _to be completed_ |
-| Name 2 | _to be completed_ |
-| Name 3 | _to be completed_ |
-| Name 4 | _to be completed_ |
+| Faten Masoud (@lcrjl) | Created the repository and folder structure; uploaded the analysis notebook (data loading, data understanding, preparation and charts);  created and assigned review issues #1–#3. |
+| Lamaa (@Lamaa7-w) | Issue #1: checked that the notebook runs in Colab and added the "Open in Colab" button; reviewed the data documentation and added the dataset size. |
+| Taif (@cvlix6) | Issue #2: added the team names to the README header and to the notebook. ran it in Colab and published the outputs; updated the README results and limitations.|
+| Maryam (@meme-78) | Issue #3: polished the notebook text (reproducibility note and clean-up); compiled this contribution table. |

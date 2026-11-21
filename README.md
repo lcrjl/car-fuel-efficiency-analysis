@@ -6,14 +6,10 @@
 **Lab:** 14–15 — Lab Project Development, GitHub Publishing and Presentation
 
 **Team Members:** 
-Lama ali
-448815941
-maryam abdu 
-448816153
-faten masoud 
-448815696
-Taif Ali Mohammed 
-448815887
+- Lama Ali 
+- Maryam Abdu 
+- Faten Masoud 
+- Taif Ali Mohammed
 
 ## 1. Objective
 
@@ -92,11 +88,9 @@ Exact figures are printed in the notebook under each chart.
 
 ## 8. Team contribution
 
-## 8. Team contribution
-
 | Member (GitHub) | Contribution |
 | --- | --- |
 | Faten Masoud (@lcrjl) | Created the repository and folder structure; uploaded the analysis notebook (data loading, data understanding, preparation and charts);  created and assigned review issues #1–#3. |
-| Lamaa (@Lamaa7-w) | Issue #1: checked that the notebook runs in Colab and added the "Open in Colab" button; reviewed the data documentation and added the dataset size. |
-| Taif (@cvlix6) | Issue #2: added the team names to the README header and to the notebook. ran it in Colab and published the outputs; updated the README results and limitations.|
-| Maryam (@meme-78) | Issue #3: polished the notebook text (reproducibility note and clean-up); compiled this contribution table. |
+| Lama Ali (@Lamaa7-w) | Issue #1: checked that the notebook runs in Colab and added the "Open in Colab" button; reviewed the data documentation and added the dataset size. |
+| Taif Ali  (@cvlix6) | Issue #2: added the team names to the README header and to the notebook. ran it in Colab and published the outputs; updated the README results and limitations.|
+| Maryam Abdu (@meme-78) | Issue #3: polished the notebook text (reproducibility note and clean-up); compiled this contribution table. |

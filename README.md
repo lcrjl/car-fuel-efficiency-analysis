@@ -94,3 +94,16 @@ Exact figures are printed in the notebook under each chart.
 | Lama Ali (@Lamaa7-w) | Issue #1: checked that the notebook runs in Colab and added the "Open in Colab" button; reviewed the data documentation and added the dataset size. |
 | Taif Ali  (@cvlix6) | Issue #2: added the team names to the README header and to the notebook. ran it in Colab and published the outputs; updated the README results and limitations.|
 | Faten Masoud (@lcrjl) | Issue #3: polished the notebook text (reproducibility note and clean-up); compiled this contribution table. |
+
+## 9. Course learning outcomes (CLOs)
+
+This project was completed for Labs 14–15 of 2323 CIS. The labs list CLOs **2.1, 2.2, 2.3, 2.4, 2.5 and 3.1** (Lab 14) and **2.3, 2.5 and 3.1** (Lab 15). The table shows where each lab requirement is addressed in this repository.
+
+| Lab requirement | Evidence in this project |
+| --- | --- |
+| Apply the lab workflow to a team dataset | Auto MPG dataset loaded in code; data question in notebook section 1 |
+| Data understanding | Shape, columns, types, missing values and descriptive statistics (notebook section 3) |
+| Document data-preparation decisions | Median filling, regular-expression brand extraction, metric transformation, aggregation and year × region reshaping, each with a written justification (notebook section 4) |
+| Purposeful visualizations with interpretation | Three titled, labelled charts with written interpretations (notebook section 5, `outputs/figures/`) |
+| Reproducible project repository | Notebook runs top to bottom; README, `data/README.md`, "Open in Colab" button, outputs saved in `outputs/` |
+| Present clearly; reflect on limitations and teamwork | 5–7 minute presentation; limitations in section 7; team review through Issues #1–#3 and the contribution table in section 8 |
